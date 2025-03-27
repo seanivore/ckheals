@@ -1,9 +1,9 @@
 {
 	"folders": [
-		{
-			"path": "."
-		}
-	],
+        {
+            "path": ".."
+        }
+    ],
 	"settings": {
 		"git.enabled": false,
 		"files.exclude": {
